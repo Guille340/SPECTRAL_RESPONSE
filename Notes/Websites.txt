@@ -1,0 +1,5 @@
+
+psd -> https://uk.mathworks.com/help/signal/ug/power-spectral-density-estimates-using-fft.html
+pwelch.m -> https://uk.mathworks.com/help/signal/ref/pwelch.html
+periodogram.m -> https://uk.mathworks.com/help/signal/ref/periodogram.html
+
